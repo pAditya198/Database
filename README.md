@@ -1,3 +1,4 @@
 # Database
-This takes in information about n no. of students then save it to a text file.
-It can also be able to retrieve that data.
+
+* ## This takes in information of n students and then save it to a text file.
+* ## It could also retrieve the data from the text when required.
